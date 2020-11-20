@@ -48,9 +48,9 @@ print(a)
 ```
 ## 常用的学习网站（链接网站）
 [哔哩哔哩](https://www.bilibili.com/)  
-[雪梨教育同步课](http://www.edu2act.cn/team/)
-[慕课](https://www.icourse163.org/)
-[批改网](http://www.pigai.org/index.php?c=write&f2=)
+[雪梨教育同步课](http://www.edu2act.cn/team/)  
+[慕课](https://www.icourse163.org/)  
+[批改网](http://www.pigai.org/index.php?c=write&f2=)  
 
 
 
